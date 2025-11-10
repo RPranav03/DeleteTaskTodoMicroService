@@ -7,7 +7,7 @@ metadata:
 spec:
   ingressClassName: azure-application-gateway
   rules:
-  - host: delete-task.rajnish.store
+  - host: delete-task.devopswalebaba.store
     http:
       paths:
       - pathType: Prefix
